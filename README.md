@@ -1,5 +1,5 @@
 # Diário Java
-*  <link rel="stylesheet" href="styles.css">Básico
+* <a href="url">Básico</a>
 
  
 * Médio
