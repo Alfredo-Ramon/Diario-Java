@@ -1,4 +1,6 @@
 # Diário Java
-* <link href:>Básico</link>
+*  <link rel="stylesheet" href="styles.css">Básico
+
+ 
 * Médio
 * Avançado
