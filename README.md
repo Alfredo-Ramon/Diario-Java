@@ -1,4 +1,4 @@
 # Diário Java
-* Básico
+* <link>Básico</link>
 * Médio
 * Avançado
