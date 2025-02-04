@@ -1,5 +1,5 @@
 # Diário Java
-* <a href="url">Básico</a>
+* <a href="https://github.com/Alfredo-Ramon/Diario-Java/new/main">Básico</a>
 
  
 * Médio
